@@ -3,12 +3,12 @@ name = "SigmaOS-omarchy-mm2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "omarchy-mm2 component"
+description = "Modem manager for SigmaOS inspired by Omarchy Linux"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
