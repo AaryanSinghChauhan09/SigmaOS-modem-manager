@@ -8,3 +8,7 @@ description = "SigmaOS omarchy-mm2 component"
 [lib]
 name = "omarchy_mm2"
 path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
