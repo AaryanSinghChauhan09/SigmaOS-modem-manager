@@ -3,7 +3,7 @@ name = "SigmaOS-omarchy-mm2"
 tier = 2
 stability = "beta"
 language = "rust"
-description = "Modem manager for SigmaOS inspired by Omarchy Linux"
+description = "Modem manager with AT profiles and SMS"
 upstream = []
 
 [contract]
