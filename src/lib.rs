@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Apache-2.0
 //!
-//! SigmaOS-omarchy-mm2 — modem manager.
+//! SigmaOS-modem-manager — modem manager.
 //!
 //! Manages modems, APN profiles, AT-command sessions, connection state,
 //! signal/operator queries, and SMS records through an injectable

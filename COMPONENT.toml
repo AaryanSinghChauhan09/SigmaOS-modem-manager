@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-omarchy-mm2"
+name = "SigmaOS-modem-manager"
 tier = 2
 stability = "beta"
 language = "rust"

@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-omarchy-mm2
+// Integration test for SigmaOS-modem-manager
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use omarchy_mm2 as _;
+use sigmaos_modem_manager as _;
 
 #[test]
 fn crate_links_and_runs() {

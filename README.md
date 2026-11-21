@@ -1,4 +1,4 @@
-# SigmaOS-omarchy-mm2
+# SigmaOS-modem-manager
 
 Modem manager for SigmaOS inspired by Omarchy Linux
 

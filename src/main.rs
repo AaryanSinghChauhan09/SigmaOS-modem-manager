@@ -1,10 +1,10 @@
-//! SigmaOS-omarchy-mm2 — modem manager CLI.
+//! SigmaOS-modem-manager — modem manager CLI.
 //!
 //! Usage: mm2 <state.json> <command> [args]
 //! Commands: modem-add, modems, profile-add, profiles, probe, connect,
 //!           disconnect, at, sms-send, sms-store, sms-list, stats
 
-use omarchy_mm2::{
+use sigmaos_modem_manager::{
     ApnProfile, AtChannel, AuthType, IpType, Modem, ModemManager, ModemState, SmsStatus, TtyChannel,
 };
 use std::path::PathBuf;

@@ -1,12 +1,12 @@
 [package]
-name = "SigmaOS-omarchy-mm2"
+name = "SigmaOS-modem-manager"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 description = "SigmaOS omarchy-mm2 component"
 
 [lib]
-name = "omarchy_mm2"
+name = "sigmaos_modem_manager"
 path = "src/lib.rs"
 
 [dependencies]
